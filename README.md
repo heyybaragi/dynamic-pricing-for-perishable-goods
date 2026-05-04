@@ -100,7 +100,7 @@ Opens at http://localhost:8501.
 
 ## Live demo
 
-[View the dashboard](https://your-app-url.streamlit.app) ← update after deployment
+[View the dashboard](https://dynamic-pricing-for-perishable-goods.streamlit.app/)
 
 ---
 
