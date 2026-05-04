@@ -1,0 +1,15 @@
+cat > .gitignore << 'EOF'
+Datasets/
+report_v2/
+report_v2.zip
+code/__pycache__/
+code/dashboard.py
+code/pipeline_notebook_truncated.ipynb.bak
+code/condaenv.gsighsm5.requirements.txt
+code/save_whatif_files.py
+.DS_Store
+__pycache__/
+*.pyc
+.env
+EOFcode/.ipynb_checkpoints/
+.streamlit/
